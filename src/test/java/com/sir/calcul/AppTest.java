@@ -20,7 +20,7 @@ public class AppTest
     
     @Test 
     public void verifieAddition(){
-        System.out.println("verification de addtion.")
+        System.out.println("verification de addtion")
     }
     
     @Test
